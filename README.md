@@ -4,7 +4,7 @@ This project aims to design a web application for SJSU students who need an onli
 
 How to run the project
 1. run the requirement.txt file, pip install -r requirement.txt
-2. download model from google drive, replace the model in the models/345_org.
-3. run the main.py, python main.py.
+2. download model file called checkpoint from google drive link, replace the model in the models/345_org
+3. run the main.py, python main.py
 4. open the browser, go to localhost:5000 or http://127.0.0.1:5000/.
 5. enter the question in the text bar, and click send, few seconds later, the chatbot will get response.
