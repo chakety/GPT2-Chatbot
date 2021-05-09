@@ -8,3 +8,8 @@ How to run the project
 3. run the main.py, python main.py
 4. open the browser, go to localhost:5000 or http://127.0.0.1:5000/.
 5. enter the question in the text bar, and click send, few seconds later, the chatbot will get response.
+eg. how can i graduate?
+    how to remove hold?
+    what class should I take?
+    How are enrollment appointments determined?
+    What if there is a Time Conflicting?
