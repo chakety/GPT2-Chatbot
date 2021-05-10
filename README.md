@@ -16,7 +16,7 @@ $ pip install -r requirements.txt
 ## Dowload Code
 You can just download zip file from Code, or use the command:
 ```
-$ gti clone https://github.com/chakety/GPT2-Chatbot
+$ git clone https://github.com/chakety/GPT2-Chatbot
 ```
 
 ## Model Install 
