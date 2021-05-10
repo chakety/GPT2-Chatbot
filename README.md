@@ -2,6 +2,9 @@
 
 This project aims to design a web application for SJSU students who need an online quick assistant and advising. The web page doesn’t need any login info to keep user information, and our chatbot will provide fundamental question and answer skills to college users.
 
+## Project Demo
+Dowload the  [SJSS_AI_Chatbot_demo.zip] (https://drive.google.com/drive/folders/1_1n2CdniG9UY4QEEr7g4WKkOVHWmjRPx?usp=sharing) to view the demo video
+
 ## Install python library:
 ```
 $ pip install tensorflow==1.14
@@ -16,8 +19,8 @@ You can just download zip file from Code, or use the command:
 $ gti clone https://github.com/chakety/GPT2-Chatbot
 ```
 
-## Model Install
-Click [link](https://drive.google.com/drive/folders/1_1n2CdniG9UY4QEEr7g4WKkOVHWmjRPx?usp=sharing) and dowload the 345M_org
+## Model Install 
+Dowload [345M_org](https://drive.google.com/drive/folders/1_1n2CdniG9UY4QEEr7g4WKkOVHWmjRPx?usp=sharing)
 
 Replacing the zip model into models\345M_org
 
